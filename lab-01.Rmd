@@ -279,6 +279,7 @@ free_entry<-visitors_with_nations %>%
     filter(admission == "Free")
 #       mutate()
 free_entry
+
 # 
 # total_count <- visitors_with_nations %>%
 #   group_by(nation) %>%
